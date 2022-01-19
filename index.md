@@ -1,37 +1,8 @@
 ## Welcome to GitHub Pages
+[contact](https://neverlivedordied.github.io/contact.github.io/index.html)   [resume](https://neverlivedordied.github.io/resume/) 
 
-You can use the [editor on GitHub](https://github.com/Neverlivedordied/aboutme2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Who am I?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi I am Ashton I play video games obv but also do robotics, live stream on [twitch](twitch.tv/theminebrothers3) edit videos on [youtube](https://www.youtube.com/channel/UCJ6eg0CjOAtyeoOM8am6ktA) made a minecraft server and yes it is joinable on different networks (aka different places of the world)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Neverlivedordied/aboutme2/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
